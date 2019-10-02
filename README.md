@@ -1,4 +1,4 @@
-# Linea ReactJS template
+# ReactJS template
 
 - Eslint
 - Jest tests
